@@ -8,4 +8,8 @@ end
 def knowledge 
   @knowlege 
 end 
+
+def learn(knowledge)
+  
+end 
 end
