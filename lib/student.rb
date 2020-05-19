@@ -6,7 +6,7 @@ def initialize
 end 
 
 def knowledge 
-  self.knowlege 
+  @knowlege 
 end 
 
 def learn(knowledge)
